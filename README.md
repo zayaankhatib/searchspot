@@ -1,10 +1,13 @@
 Searchspot
 ===========
 
-One happening day I found myself browsing ikeas website for cheap furniture. Irritated by having to continuosly click on the search bar, and surprised to find that there is no hotkey that does this, I made Searchspot. A hotkey which automatically selects the current web pages search bar.
+![searchspot icon](Safari/searchspot.safariextension/Icon.png)
+
+One happening day I found myself browsing ikea.com for cheap furniture. Irritated by having to continuosly click on the search bar, and surprised to find that there is no hotkey that does this, I made Searchspot. A hotkey which automatically selects the current web pages search bar.
 
 ##Download
-[Safari](https://github.com/zayaankhatib/searchspot/blob/master/Safari/searchspot.safariextz?raw=true)
+[Safari](https://raw.github.com/zayaankhatib/searchspot/master/Safari/searchspot.safariextz) *(direct download)*
+
 Chrome - working on it.
 
 ##Known Issues
