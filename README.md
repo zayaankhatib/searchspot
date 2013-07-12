@@ -11,4 +11,3 @@ One happening day I found myself exploring ikeas website for cheap furniture. Ir
 
 * SearchSpot can only locate search bars that are already visible on the page. So if there's a website which has a hidden search bar that is appears via a button, searchspot won't find it
 
-
