@@ -3,7 +3,8 @@ Searchspot
 
 ![searchspot icon](Safari/searchspot.safariextension/Icon.png)
 
-One happening day I found myself browsing ikea.com for cheap furniture. Irritated by having to continuosly click on the search bar, and surprised to find that there is no hotkey that does this, I made Searchspot. A hotkey which automatically selects the current web pages search bar.
+An extension which adds a hotkey that automatically selects the search bar within a webpage.
+The extension is Safari only right now with Command-K being the hotkey.
 
 ##Download
 [Safari](https://raw.github.com/zayaankhatib/searchspot/master/Safari/searchspot.safariextz) *(direct download)*
